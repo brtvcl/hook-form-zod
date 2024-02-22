@@ -9,6 +9,9 @@
   max-width: 200px;
 }
 
-span {
+.error {
   color: red;
+}
+.warning {
+  color: rgb(228, 167, 55)
 }
